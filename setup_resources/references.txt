@@ -1,0 +1,9 @@
+https://realpython.com/python-web-applications/
+https://www.smashingmagazine.com/2020/08/api-flask-google-cloudsql-app-engine/
+
+https://www.w3schools.com/python/python_mysql_select.asp
+https://stackoverflow.com/questions/42906665/import-my-database-connection-with-python/42909424
+https://stackoverflow.com/questions/53222413/python-configparser-raise-keyerror-key
+https://stackoverflow.com/questions/232946581/asking-the-user-for-input-until-they-give-a-valid-response
+https://www.w3schools.com/python/python_mysql_where.asp
+https://stackoverflow.com/questions/283645/python-list-in-sql-query-as-parameter

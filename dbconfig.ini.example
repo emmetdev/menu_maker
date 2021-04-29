@@ -1,0 +1,6 @@
+[mysqlDB]
+host = 127.0.0.1
+db = meals
+user = meals_admin
+pass = <insert-your-password-here>
+raise_on_warnings = True
