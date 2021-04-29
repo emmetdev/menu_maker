@@ -1,4 +1,4 @@
-#Menu_maker
+# Menu_maker
 
 A recipe generator for lockdown dining.
 
